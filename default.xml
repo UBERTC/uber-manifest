@@ -22,7 +22,7 @@
   <project path="gcc/gcc-UBER" name="GCC-UBER" remote="uu" revision="uber-4.9" />
   <project path="gdb/gdb-uber" name="gdb" remote="uu" revision="7.9" />
   <project path="gmp/gmp-uber" name="gmp" remote="uu" revision="6.0.0" />
-  <project path="mpc/mpc-uber" name="mpc" remote="uu" revision="1.0.2" />
+  <project path="mpc/mpc-uber" name="mpc" remote="uu" revision="1.0.3" />
   <project path="mpfr/mpfr-uber" name="mpfr" remote="uu" revision="3.1.2" />
   <project path="scripts" name="uber-scripts" remote="uu" revision="master" />
   <project path="sysroot" name="sysroot" remote="uu" revision="gcc-4.8" />
