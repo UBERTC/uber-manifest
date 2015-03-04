@@ -11,19 +11,19 @@
            sync-j="4"
            sync-c="true" />
 
-  <project path="manifest" name="uber-manifest" remote="uu" revision="master" />
+  <project path="manifest" name="uber-manifest" remote="uu" revision="dev" />
   <project path="benchmark" name="benchmark" />
   <project path="binutils/binutils-uber" name="binutils" remote="uu" revision="2.25" />
-  <project path="build" name="uber-build" remote="uu" revision="master" />
+  <project path="build" name="uber-build" remote="uu" revision="dev" />
   <project path="cloog/cloog-uber" name="cloog" remote="uu" revision="0.18.3" />
   <project path="cloog/cloog-uber/isl" name="isl" remote="uu" revision="0.14" />
   <project path="cloog/cloog-uber/osl" name="osl" remote="uu" revision="0.9.0" />
   <project path="isl/isl-uber" name="isl" remote="uu" revision="0.14" />
   <project path="gcc/gcc-UBER" name="GCC-UBER" remote="uu" revision="uber-4.9" />
   <project path="gdb/gdb-uber" name="gdb" remote="uu" revision="7.9" />
-  <project path="gmp/gmp-uber" name="gmp" remote="uu" revision="6.0.0" />
+  <project path="gmp/gmp-uber" name="gmp" remote="uu" revision="dev" />
   <project path="mpc/mpc-uber" name="mpc" remote="uu" revision="1.0.3" />
-  <project path="mpfr/mpfr-uber" name="mpfr" remote="uu" revision="3.1.2" />
+  <project path="mpfr/mpfr-uber" name="mpfr" remote="uu" revision="3.1.3-dev" />
   <project path="scripts" name="uber-scripts" remote="uu" revision="master" />
   <project path="sysroot" name="sysroot" remote="uu" revision="gcc-4.8" />
 </manifest>
