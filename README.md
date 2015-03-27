@@ -23,8 +23,8 @@ UBER TOOLCHAINS also make use of multilib support on androideabi (ROM) toolchain
     sudo ln -s /usr/include/asm-generic /usr/include/asm;
 
 
-Once you have everything synced locally go to the scripts directory and run any of the scripts. All scripts will checkout the needed GCC version before build so don't worry which branch you ran repo init with you can build them all using master branch.
+Once you have everything synced locally go to the scripts directory and run any of the scripts (ie cd scripts then bash arm-eabi-4.9).  There are many different cpu tuning options or if you don't know or are planning on building for many different cpus make sure to run the scripts that do not have cortex labels. All scripts will checkout the needed GCC version before build so don't worry which branch you ran repo init with you can build them all using master branch.
 
-When you finished running the script you will find a toolchain located wherever the script tells you it is found.  Usually ~/uber_toolchain and labeled accordingly.
+When you finished running the script you will find a toolchain located wherever the script tells you it is found.  Usually in the toolchain_repo_init_location/out/ and labeled accordingly.
 
 Enjoy!
