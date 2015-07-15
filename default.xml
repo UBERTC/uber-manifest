@@ -10,7 +10,7 @@
   <project path="manifest" name="uber-manifest" revision="dev" />
   <project path="binutils/binutils-uber" name="binutils" revision="2.25" />
   <project path="build" name="uber-build" revision="dev" />
-  <project path="cloog/cloog-uber" name="cloog" revision="uber" />
+  <project path="cloog/cloog-uber" name="cloog" revision="dev" />
   <project path="cloog/cloog-uber/isl" name="isl" revision="dev" />
   <project path="cloog/cloog-uber/osl" name="osl" revision="uber" />
   <project path="isl/isl-uber" name="isl" revision="dev" />
