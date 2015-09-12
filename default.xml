@@ -19,6 +19,6 @@
   <project path="gmp/gmp-uber" name="gmp" revision="dev" />
   <project path="mpc/mpc-uber" name="mpc" revision="dev" />
   <project path="mpfr/mpfr-uber" name="mpfr" revision="dev" />
-  <project path="scripts" name="uber-scripts" revision="master" />
+  <project path="scripts" name="uber-scripts" revision="dev" />
   <project path="sysroot" name="sysroot" revision="gcc-4.9" />
 </manifest>
