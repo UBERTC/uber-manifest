@@ -15,7 +15,6 @@
   <project path="cloog/cloog-uber/osl" name="osl" revision="dev" />
   <project path="isl/isl-uber" name="isl" revision="dev" />
   <project path="gcc/gcc-UBER" name="GCC-UBER" revision="uber-4.9" />
-  <project path="gdb/gdb-uber" name="gdb" revision="7.10" />
   <project path="gmp/gmp-uber" name="gmp" revision="dev" />
   <project path="mpc/mpc-uber" name="mpc" revision="dev" />
   <project path="mpfr/mpfr-uber" name="mpfr" revision="dev" />
