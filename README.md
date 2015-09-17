@@ -13,7 +13,7 @@ followed by
 
 Also make sure to install dependencies (while you wait for it to sync)
 
-    sudo apt-get install flex bison ncurses-dev texinfo gcc gperf patch libtool automake g++ libncurses5-dev gawk subversion expat libexpat1-dev python-all-dev binutils-static libgcc1:i386 bc libcloog-isl-dev libcap-dev autoconf libgmp-dev build-essential gcc-multilib g++-multilib pkg-config
+    sudo apt-get install flex bison ncurses-dev texinfo gcc gperf patch libtool automake g++ libncurses5-dev gawk subversion expat libexpat1-dev python-all-dev binutils-static libgcc1:i386 bc libcloog-isl-dev libcap-dev autoconf libgmp-dev build-essential gcc-multilib g++-multilib pkg-config libmpc-dev libmpfr-dev
 
 **Note: I also have an entire android environment setup as well apart from these.  I currently use Ubuntu 15.04 repos on my build server.  You may be missing dependencies that already came preinstalled with my android environment setup.  I'll let you figure out what you need for any other distro you may be running. Usually though errors will tell you the dependency you are missing.**
 
