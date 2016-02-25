@@ -5,7 +5,8 @@
   <default revision="master"
            remote="uu"
            sync-j="4"
-           sync-c="true" />
+           sync-c="true"
+           sync-f="true" />
 
   <project path="manifest" name="uber-manifest" revision="dev" />
   <project path="binutils/binutils-uber" name="binutils" revision="master" />
